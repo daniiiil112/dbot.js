@@ -1,0 +1,11 @@
+{	"clientToken" : "BOT_TOKEN",
+	"serverId" : "Server ID",
+	"textChannelId" : "Text_Channel_ID",
+	"voiceChannelId" : "Voice_Channel_ID",
+	"commandPrefix" : "!",
+	"defaultVolume" : "0.3",
+	"loggerLevel" : "info",	
+	"loggerPath" : "/var/log/dbot.eris.log",
+	"fifoPath" : "/tmp/mpd.fifo",	
+	"pidPath" : "/var/run/dbot.eris.pid"		
+}

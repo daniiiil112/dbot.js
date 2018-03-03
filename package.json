@@ -1,0 +1,29 @@
+{
+  "name": "dbot.js",
+  "version": "0.0.1",
+  "description": "Discord musical bot on the library Discord.js. As a sound source is used MPD with the FIFO output method.",
+  "main": "main.js",
+  "dependencies": {
+    "daemonize2": "^0.4.2",
+    "discord.js": "^11.3.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "komponist": "^0.1.0",
+    "log4js": "^2.5.3",
+    "node-opus": "^0.2.7",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniiiil112/dbot.js.git"
+  },
+  "author": "daniiiil112",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/daniiiil112/dbot.js/issues"
+  },
+  "homepage": "https://github.com/daniiiil112/dbot.js#readme"
+}
